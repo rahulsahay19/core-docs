@@ -72,3 +72,7 @@ You may be blocked from installing the [.NET Core Tooling Preview 2 for Visual S
 ```
 DotNetCore.1.0.0-VS2015Tools.Preview2.exe SKIP_VSU_CHECK=1
 ```
+
+You can also refer this video link for the same.
+
+[.NET Core Installation](http://myview.rahulnivi.net/installing-net-core/).
